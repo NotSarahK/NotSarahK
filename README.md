@@ -23,7 +23,6 @@ I’m a Game Designer and Developer with a BS in Game Design from Full Sail Univ
 - 🛠️ Skilled in Unreal Engine 4/5, Unity3D, C++, and C#.  
 - 📚 Educator: taught 100+ students in game dev, animation, and VFX.  
 
-//section 1
 <p align="center"> <img src="Profile Info/windows_9_blank_window_template.png" alt="Featured Projects" width="700"/> </p>
 ## 🎮 Featured Projects
 
@@ -33,7 +32,6 @@ I’m a Game Designer and Developer with a BS in Game Design from Full Sail Univ
 "Schrodinger’s Box" -> Unity prototype with HUD + Scripting  
 "Goblin Market (Unreal)" -> Environmental demo & assets  
 
-//section 2
 <p align="center"> <img src="Profile Info/windows_9_blank_window_template.png" alt="Tech Stack" width="700"/> </p>
 ## 🛠 Tech Stack
 
@@ -42,7 +40,6 @@ Languages = ["C++", "C#", "Python", "JavaScript", "MEL", "SQL"]
 ArtTools = ["Maya", "Photoshop", "After Effects", "ToonBoom", "NukeX"]  
 Workflows = ["Git", "Jira", "Confluence", "New Relic", "Postman"]  
 
-//section 3
 <p align="center"> <img src="Profile Info/windows_9_blank_window_template.png" alt="Achievements" width="700"/> </p>
 ## 🏆 Achievements
 
@@ -50,7 +47,6 @@ Educator = ["SNHU", "PBSC", "G-Star High School"]
 Industry = ["Rockstar Games (GTAV)", "WB Games (Batman, Mortal Kombat, Witcher 3)"]  
 Certifications = ["Maya Certified User", "Python PCEP", "C++/C#", "Azure Fundamentals"]  
 
-//section 4
 <p align="center"> <img src="Profile Info/windows_9_blank_window_template.png" alt="Current Work" width="700"/> </p>
 ## 📂 Current Work
 
@@ -58,7 +54,6 @@ IndieDemo = "Horror game in Unreal Engine 5"
 AppDev = "Scoring & Leaderboard app"  
 MakerProject = "Custom CNC Desk w/ Maya + Fusion 360"  
 
-//section 5
 <p align="center"> <img src="Profile Info/windows_9_blank_window_template.png" alt="Connect" width="700"/> </p>
 ## 🤝 Let’s Connect
 
