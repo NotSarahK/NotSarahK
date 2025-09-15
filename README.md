@@ -142,7 +142,7 @@ I’m a Game Designer and Developer with a BS in Game Design from Full Sail Univ
 ---
 
 <p align="center"> 
-    <img src="https://i.imgur.com/fQ2ZV.gif" alt="Loading..." width="300"/><br/> 
+    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="Loading..." width="300"/><br/> 
     <sub>Loading Next Level...</sub> 
 </p>
 
