@@ -5,12 +5,16 @@
 
 # Hi there 👋, I'm **Kaycee Chapman**
 
-🎮 Game Designer & Developer | Unreal & Unity Specialist | Educator & Support Engineer  
-📍 Fort Lauderdale, FL • Open to Remote  
+<p align="center">
+  <strong>[►] Game Designer & Developer | Unreal & Unity Specialist | Educator & Support Engineer</strong><br>
+  [▪] Fort Lauderdale, FL • Open to Remote
+</p>
 
 ---
 
 <!-- ABOUT ME WINDOW -->
+## [►] About Me
+
 <p align="center">
   <img src="Profile Info/about_me_xp_section.png" alt="About Me - Game Designer & Developer with expertise in Unreal Engine, Unity, C++, C#" width="700"/>
 </p>
@@ -21,12 +25,12 @@
 <tr>
 <td width="50%">
 
-**🎨 Creative Focus**
+**[▪] Creative Focus**
 - Immersive mechanics
 - Level design
 - Visual effects
 
-**🛠️ Technical Skills**
+**[▪] Technical Skills**
 - Unreal Engine 4/5
 - Unity3D
 - C++ and C#
@@ -34,12 +38,12 @@
 </td>
 <td width="50%">
 
-**📚 Education Experience**
+**[▪] Education Experience**
 - Taught 100+ students
 - Game development
 - Animation and VFX
 
-**💼 Industry Background**
+**[▪] Industry Background**
 - AAA title support
 - Indie development
 
@@ -49,123 +53,247 @@
 ---
 
 <!-- FEATURED PROJECTS WINDOW -->
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="Profile Info/featured_projects_xp_section.png" alt="Featured Projects Window" width="700" style="display: block;"/>
-  <div style="position: absolute; top: 60px; left: 50px; right: 50px; bottom: 40px; padding: 20px; color: #000000; font-size: 13px; line-height: 1.3;">
+<p align="center">
+  <img src="Profile Info/featured_projects_xp_section.png" alt="Featured Projects - BIG Bang UE4, Crane Game Unity, Firefighter Safety Demo, Schrodinger's Box, Goblin Market" width="700"/>
+</p>
 
-**🎮 BIG Bang (UE4)**  
-Sci-fi puzzle demo featuring level design, Blueprints, and art direction  
-*Tech Stack:* Unreal Engine 4, Blueprints | *Status:* Demo Ready
+## [►] Featured Projects
 
-**🕹️ Crane Game (Unity)**  
-Physics-based claw machine with custom input, mechanics, and dynamic camera  
-*Tech Stack:* Unity3D, C# | *Features:* Realistic physics, intuitive controls
+<table>
+<tr>
+<td width="50%">
 
-**🚒 Firefighter Safety Demo**  
-3D safety training animation for Palm Beach County Fire Department  
-*Tech Stack:* Maya, After Effects | *Impact:* Professional safety training
+### [▸] BIG Bang (UE4)
+Sci-fi puzzle demo featuring level design, Blueprints, and art direction
 
-**📦 Schrodinger's Box (Unity)**  
-Interactive prototype featuring custom HUD and advanced scripting  
-*Tech Stack:* Unity3D, C# | *Focus:* UI/UX and game mechanics
+**Tech Stack:** Unreal Engine 4, Blueprints  
+**Status:** Demo Ready
 
-**🏪 Goblin Market (Unreal)**  
-Environmental showcase with custom asset creation and world building  
-*Tech Stack:* Unreal Engine | *Specialty:* Environment art and optimization
+</td>
+<td width="50%">
 
-  </div>
-</div>
+### [▸] Crane Game (Unity)
+Physics-based claw machine with custom input and mechanics
+
+**Tech Stack:** Unity3D, C#  
+**Features:** Realistic physics, intuitive controls
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [▸] Firefighter Safety Demo
+3D safety training animation for Palm Beach County Fire Department
+
+**Tech Stack:** Maya, After Effects  
+**Impact:** Professional safety training
+
+</td>
+<td width="50%">
+
+### [▸] Schrodinger's Box (Unity)
+Interactive prototype featuring custom HUD and advanced scripting
+
+**Tech Stack:** Unity3D, C#  
+**Focus:** UI/UX and game mechanics
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### [▸] Goblin Market (Unreal)
+Environmental showcase with custom asset creation and world building
+
+**Tech Stack:** Unreal Engine | **Specialty:** Environment art and optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- TECH STACK WINDOW -->
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="Profile Info/tech_stack_xp_section.png" alt="Tech Stack Window" width="700" style="display: block;"/>
-  <div style="position: absolute; top: 60px; left: 50px; right: 50px; bottom: 40px; padding: 20px; color: #000000; font-size: 13px; line-height: 1.3;">
+  <p align="center">
+  <img src="Profile Info/tech_stack_xp_section.png" alt="Tech Stack - Unreal Engine, Unity, C++, C#, Python, Maya, Photoshop, Git" width="700"/>
+</p>
 
-**🎮 Game Engines**  
-Unreal Engine 4/5 (C++/Blueprints), Unity3D (C#)
+## [►] Tech Stack
 
-**💻 Programming Languages**  
-C++, C#, Python, JavaScript, MEL, SQL
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**🎨 Creative Software**  
-Autodesk Maya, Photoshop, After Effects, ToonBoom Harmony, NukeX
+**[::] Game Engines**
+- Unreal Engine 4/5
+  - C++
+  - Blueprints
+- Unity3D
+  - C#
 
-**🔧 Development Tools**  
-Git, Jira, Confluence, New Relic, Postman, Swagger, Google Tag Manager
+</td>
+<td width="33%" valign="top">
 
-**🐛 Debugging & Performance**  
-API debugging, profiling, middleware integration, performance optimization
+**[::] Languages**
+- C++
+- C#
+- Python
+- JavaScript
+- MEL
+- SQL
 
-  </div>
-</div>
+</td>
+<td width="33%" valign="top">
+
+**[::] Creative Suite**
+- Autodesk Maya
+- Photoshop
+- After Effects
+- ToonBoom Harmony
+- NukeX
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+**[::] Development Tools**
+- Version Control: Git
+- Project Management: Jira, Confluence
+- API Tools: Postman, Swagger, New Relic
+- Analytics: Google Tag Manager
+
+</td>
+<td width="50%" valign="top">
+
+**[::] Specializations**
+- API debugging
+- Performance profiling
+- Middleware integration
+- Optimization
+
+</td>
+</tr>
+</table>
 
 ---  
 
 <!-- ACHIEVEMENTS WINDOW -->
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="Profile Info/achievements_xp_section.png" alt="Achievements Window" width="700" style="display: block;"/>
-  <div style="position: absolute; top: 60px; left: 50px; right: 50px; bottom: 40px; padding: 20px; color: #000000; font-size: 14px; line-height: 1.4;">
+  <p align="center">
+  <img src="Profile Info/achievements_xp_section.png" alt="Achievements - Educator at SNHU PBSC G-Star, Industry Support for Rockstar WB Games, Certified in Maya Python C++ Azure" width="700"/>
+</p>
 
-**🎓 Educational Impact**  
-Instructor at SNHU, PBSC, and G-Star High School  
-*Specialty:* Game development, animation, and VFX curriculum
+## [►] Achievements
 
-**🎮 Industry Support**  
-Technical support for major releases:  
-• Rockstar Games: Grand Theft Auto V  
-• WB Games: Batman Arkham Knight, Mortal Kombat X, The Witcher 3
+<table>
+<tr>
+<td width="33%" align="center">
 
-**📜 Professional Certifications**  
-Maya Certified User • Python PCEP • C++/C# Proficiency • Azure Fundamentals
+### [✓] Education
+**Instructor at:**
+- SNHU
+- PBSC
+- G-Star High School
 
-  </div>
-</div>
+**Specialty:**  
+Game development, animation, and VFX curriculum
+
+</td>
+<td width="33%" align="center">
+
+### [✓] Industry Support
+**Technical support for:**
+- Grand Theft Auto V  
+  *(Rockstar Games)*
+- Batman Arkham Knight  
+  *(WB Games)*
+- Mortal Kombat X  
+  *(WB Games)*
+- The Witcher 3  
+  *(WB Games)*
+
+</td>
+<td width="33%" align="center">
+
+### [✓] Certifications
+- Maya Certified User
+- Python PCEP
+- C++/C# Proficiency
+- Azure Fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- CURRENT WORK WINDOW -->
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="Profile Info/current_work_xp_section.png" alt="Current Work Window" width="700" style="display: block;"/>
-  <div style="position: absolute; top: 60px; left: 50px; right: 50px; bottom: 40px; padding: 20px; color: #000000; font-size: 14px; line-height: 1.4;">
+  <p align="center">
+  <img src="Profile Info/current_work_xp_section.png" alt="Current Work - Indie Horror Demo UE5, Scoring App, Custom CNC Desk" width="700"/>
+</p>
 
-**👻 Indie Horror Demo (UE5)**  
-Multi-level prototype development with small collaborative team  
-*Focus:* Atmospheric design, advanced lighting, and immersive gameplay
+## [►] Current Work
 
-**🏆 Scoring/Leaderboard Application**  
-Cross-platform concept design and development planning  
-*Scope:* User engagement systems and competitive features
+<table>
+<tr>
+<td width="33%" align="center">
 
-**🪑 Custom CNC Desk Project**  
-Maya and Fusion 360 modeling for personal workspace fabrication  
-*Skills:* 3D modeling, technical drawing, and manufacturing preparation
+### [>>] Indie Horror Demo
+**Platform:** Unreal Engine 5
 
-  </div>
-</div>
+Multi-level prototype with small collaborative team
+
+**Focus:**
+- Atmospheric design
+- Advanced lighting
+- Immersive gameplay
+
+</td>
+<td width="33%" align="center">
+
+### [>>] Scoring App
+**Type:** Cross-platform
+
+Concept design and development planning
+
+**Features:**
+- User engagement systems
+- Competitive leaderboards
+- Multi-platform support
+
+</td>
+<td width="33%" align="center">
+
+### [>>] Custom CNC Desk
+**Tools:** Maya, Fusion 360
+
+Personal workspace fabrication project
+
+**Skills:**
+- 3D modeling
+- Technical drawing
+- Manufacturing prep
+
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- CONNECT WINDOW -->
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="Profile Info/connect_xp_section.png" alt="Connect Window" width="700" style="display: block;"/>
-  <div style="position: absolute; top: 60px; left: 50px; right: 50px; bottom: 40px; padding: 20px; color: #000000; font-size: 14px; line-height: 1.5;">
 
-**🌐 Portfolio Website**  
-https://kayceelc.wixsite.com/kcgamedesigns  
-*Showcase of projects, demos, and development process*
+## [►] Connect With Me
 
-**💼 Professional Network**  
-https://www.linkedin.com/in/kaycee-chapman-92bb1350/  
-*Connect for opportunities and collaboration*
+<p align="center">
 
-**📧 Direct Contact**  
-kayceelchapman@gmail.com  
-*Open to discussing projects, opportunities, and partnerships*
+| Platform | Link | Purpose |
+|:--------:|:-----|:--------|
+| **[OK]** Portfolio | [kayceelc.wixsite.com/kcgamedesigns](https://kayceelc.wixsite.com/kcgamedesigns) | Showcase of projects, demos, and development process |
+| **[OK]** LinkedIn | [kaycee-chapman](https://www.linkedin.com/in/kaycee-chapman-92bb1350/) | Connect for opportunities and collaboration |
+| **[OK]** Email | [kayceelchapman@gmail.com](mailto:kayceelchapman@gmail.com) | Open to discussing projects, opportunities, and partnerships |
 
-  </div>
-</div>
+</p>
 
 ---
 
