@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 **[▪] Creative Focus**
 - Immersive mechanics
 - Level design
@@ -35,7 +35,7 @@
 - C++ and C#
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 **[▪] Education Experience**
 - Taught 100+ students
 - Game development
@@ -59,7 +59,7 @@
 
 <table>
 <tr>
-<td width="30%">
+<td width="50%" valign="top">
 ### [▸] BIG Bang (UE4)
 Sci-fi puzzle demo featuring level design, Blueprints, and art direction
 
@@ -67,7 +67,7 @@ Sci-fi puzzle demo featuring level design, Blueprints, and art direction
 **Status:** Demo Ready
 
 </td>
-<td width="30%">
+<td width="50%" valign="top">
 ### [▸] Crane Game (Unity)
 Physics-based claw machine with custom input and mechanics
 
@@ -77,7 +77,7 @@ Physics-based claw machine with custom input and mechanics
 </td>
 </tr>
 <tr>
-<td width="30%">
+<td width="50%" valign="top">
 ### [▸] Firefighter Safety Demo
 3D safety training animation for Palm Beach County Fire Department
 
@@ -85,7 +85,7 @@ Physics-based claw machine with custom input and mechanics
 **Impact:** Professional safety training
 
 </td>
-<td width="30%">
+<td width="50%" valign="top">
 ### [▸] Schrodinger's Box (Unity)
 Interactive prototype featuring custom HUD and advanced scripting
 
@@ -231,7 +231,7 @@ Game development, animation, and VFX curriculum
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### [>>] Indie Horror Demo
 **Platform:** Unreal Engine 5
@@ -244,7 +244,7 @@ Multi-level prototype with small collaborative team
 - Immersive gameplay
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### [>>] Scoring App
 **Type:** Cross-platform
@@ -257,7 +257,7 @@ Concept design and development planning
 - Multi-platform support
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### [>>] Custom CNC Desk
 **Tools:** Maya, Fusion 360
@@ -279,16 +279,59 @@ Personal workspace fabrication project
 
 ## [►] Connect With Me
 
-<p align="center">
+<table>
+<tr>
+<td width="20%" valign="top">
 
-| Platform | Link | Purpose |
-|:--------:|:-----|:--------|
-| **[OK]** Portfolio | [kayceelc.wixsite.com/kcgamedesigns](https://kayceelc.wixsite.com/kcgamedesigns) | Showcase of projects, demos, and development process |
-| **[OK]** LinkedIn | [kaycee-chapman](https://www.linkedin.com/in/kaycee-chapman-92bb1350/) | Connect for opportunities and collaboration |
-| **[OK]** Email | [kayceelchapman@gmail.com](mailto:kayceelchapman@gmail.com) | Open to discussing projects, opportunities, and partnerships |
+**[OK] Portfolio**
 
-</p>
+</td>
+<td width="40%" valign="top">
 
+[kayceelc.wixsite.com/kcgamedesigns](https://kayceelc.wixsite.com/kcgamedesigns)
+
+</td>
+<td width="40%" valign="top">
+
+Showcase of projects, demos, and development process
+
+</td>
+</tr>
+<tr>
+<td width="20%" valign="top">
+
+**[OK] LinkedIn**
+
+</td>
+<td width="40%" valign="top">
+
+[kaycee-chapman](https://www.linkedin.com/in/kaycee-chapman-92bb1350/)
+
+</td>
+<td width="40%" valign="top">
+
+Connect for opportunities and collaboration
+
+</td>
+</tr>
+<tr>
+<td width="20%" valign="top">
+
+**[OK] Email**
+
+</td>
+<td width="40%" valign="top">
+
+[kayceelchapman@gmail.com](mailto:kayceelchapman@gmail.com)
+
+</td>
+<td width="40%" valign="top">
+
+Open to discussing projects, opportunities, and partnerships
+
+</td>
+</tr>
+</table>
 ---
 
 <p align="center"> 
