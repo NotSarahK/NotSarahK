@@ -24,7 +24,6 @@
 <table>
 <tr>
 <td width="50%">
-
 **[▪] Creative Focus**
 - Immersive mechanics
 - Level design
@@ -37,7 +36,6 @@
 
 </td>
 <td width="50%">
-
 **[▪] Education Experience**
 - Taught 100+ students
 - Game development
@@ -61,8 +59,7 @@
 
 <table>
 <tr>
-<td width="50%">
-
+<td width="30%">
 ### [▸] BIG Bang (UE4)
 Sci-fi puzzle demo featuring level design, Blueprints, and art direction
 
@@ -70,8 +67,7 @@ Sci-fi puzzle demo featuring level design, Blueprints, and art direction
 **Status:** Demo Ready
 
 </td>
-<td width="50%">
-
+<td width="30%">
 ### [▸] Crane Game (Unity)
 Physics-based claw machine with custom input and mechanics
 
@@ -81,8 +77,7 @@ Physics-based claw machine with custom input and mechanics
 </td>
 </tr>
 <tr>
-<td width="50%">
-
+<td width="30%">
 ### [▸] Firefighter Safety Demo
 3D safety training animation for Palm Beach County Fire Department
 
@@ -90,8 +85,7 @@ Physics-based claw machine with custom input and mechanics
 **Impact:** Professional safety training
 
 </td>
-<td width="50%">
-
+<td width="30%">
 ### [▸] Schrodinger's Box (Unity)
 Interactive prototype featuring custom HUD and advanced scripting
 
