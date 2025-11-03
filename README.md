@@ -11,20 +11,40 @@
 ---
 
 <!-- ABOUT ME WINDOW -->
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="Profile Info/about_me_xp_section.png" alt="About Me Window" width="700" style="display: block;"/>
-  <div style="position: absolute; top: 60px; left: 50px; right: 50px; bottom: 40px; padding: 20px; color: #000000; font-size: 14px; line-height: 1.4;">
-    
+<p align="center">
+  <img src="Profile Info/about_me_complete.png" alt="About Me - Game Designer & Developer with expertise in Unreal Engine, Unity, C++, C#" width="700"/>
+</p>
 **Game Designer & Developer** with BS in Game Design from Full Sail University
-    
-🎨 **Creative Focus:** Immersive mechanics, level design, and visual effects  
-🛠️ **Technical Skills:** Unreal Engine 4/5, Unity3D, C++, and C#  
-📚 **Education Experience:** Taught 100+ students in game dev, animation, and VFX  
-💼 **Industry Background:** Support for AAA titles and indie development  
 
-  </div>
-</div>
+<table>
+<tr>
+<td width="50%">
 
+**🎨 Creative Focus**
+- Immersive mechanics
+- Level design
+- Visual effects
+
+**🛠️ Technical Skills**
+- Unreal Engine 4/5
+- Unity3D
+- C++ and C#
+
+</td>
+<td width="50%">
+
+**📚 Education Experience**
+- Taught 100+ students
+- Game development
+- Animation and VFX
+
+**💼 Industry Background**
+- AAA title support
+- Indie development
+
+</td>
+</tr>
+</table>
 ---
 
 <!-- FEATURED PROJECTS WINDOW -->
