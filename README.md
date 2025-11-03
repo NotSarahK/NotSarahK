@@ -12,7 +12,7 @@
 
 <!-- ABOUT ME WINDOW -->
 <p align="center">
-  <img src="Profile Info/about_me_complete.png" alt="About Me - Game Designer & Developer with expertise in Unreal Engine, Unity, C++, C#" width="700"/>
+  <img src="Profile Info/about_me_xp_section.png" alt="About Me - Game Designer & Developer with expertise in Unreal Engine, Unity, C++, C#" width="700"/>
 </p>
 
 **Game Designer & Developer** with BS in Game Design from Full Sail University
